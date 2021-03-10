@@ -1,0 +1,166 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-image: url(Imagens/img2.jpg);
+  font-family: Arial;
+}
+#menu{
+  width: 100%;
+  background-color: rgb(26, 27, 26);
+  height: 26px;
+  text-align: center;
+  padding-top: 8px;
+  font-family: Helvetica;
+  font-size: 15px;
+  position: fixed;
+  font-weight: bold;
+}
+#titulo{
+  width: 100%;
+  font-size: 60px;
+  padding-top: 34px;
+}
+#principal{
+  background-color: rgb(66, 66, 66);
+  width: 50%;
+  margin: auto;
+  color: #ffffff;
+}
+#geral{
+  font-family: 'Times New Roman';
+  padding-top: 7px;
+  padding-left: 3px;
+}
+.nome_filme{
+  font-size: 24px;
+}
+.pxp{
+  padding-top: 15px;
+  padding-left: 8px;
+  float: left;
+}
+.informacoes{
+  font-size: 14px;
+  font-weight: bold;
+  padding-left: 10px;
+}
+.info{
+  padding-top: 5px;
+  padding-left: 27%;
+}
+.sinopse{
+  padding-left: 10px;
+  text-align: justify;
+  padding-right: 20px;
+}
+.titulo_trailer{
+  font-weight: bold;
+  font-size: 21px;
+}
+a{
+  text-decoration: none;
+  color: white;
+  padding: 3px;
+}
+a:hover{
+  color:#f20000;
+}
+.descricao{
+  font-weight: bold;
+}
+#series{
+  padding: 15px;
+}
+ul{
+  padding-left: 30px;
+}
+li{
+  padding: 3px;
+}
+ul a:hover{
+  color: #12e400;
+}
+.titulo_series{
+  font-weight: bold;
+  font-size: 22px;
+  color: #04d0dd
+}
+.perfil{
+  border: 3px;
+  border-color: rgb(174, 183, 186);
+  border-style: double;
+}
+#sobre_mim{
+  padding: 45px;
+  padding-top: 30px;
+  text-align: center;
+  font-family: 'Times New Roman';
+}
+legend{
+  font-weight: bold;
+}
+p{
+  padding: 8px;
+}
+#form1{
+  padding: 10px;
+}
+#form2{
+  padding: 10px;
+}
+form{
+  padding: 15px;
+}
+.simbolo{
+  padding-left: 300px;
+}
+.galeria{
+  float: left;
+  padding: 5px;
+  margin: 5px;
+}
+.col1{
+  width: 2%
+}
+.col2{
+  width: 12%
+}
+.col3{
+  width: 5%
+}
+.col4{
+  width: 10%
+}
+.bilheteria{
+  font-weight: bold;
+  font-size: 22px;
+  color: #04d0dd;
+  padding: 15px
+}
+table{
+  margin: 6px;
+  border-style: double;
+  border-color: rgb(7, 164, 84);
+}
+td{
+  text-align: center;
+}
+th{
+  height: 25px;
+}
+.wallpaper{
+  font-weight: bold;
+  font-size: 22px;
+  color: #04d0dd;
+  padding: 15px;
+
+}
+.poxid{
+  background-color: rgb(66, 66, 66);
+  width: 80%;
+  margin: auto;
+  color: #ffffff;
+  position: relative;
+}
